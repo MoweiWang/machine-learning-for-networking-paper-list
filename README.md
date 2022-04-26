@@ -1,16 +1,27 @@
 # machine-learning-for-networking-paper-list
-A list of recent papers applying machine learning, especially ***deep learning*** and ***deep reinforcement learning***, in computer networking domain. The papers are mostly selected from major venues such as Sigcomm, NSDI, Mobicom, Mobisys, IMC, CoNEXT, INFOCOM, Hotnets, MM, MMSys, OSDI, SOSP etc. Papers with interesting topics or insights are also listed here even if they are not published yet or just on the arXiv.
 
-<!-- Literature of video streaming research published in major venues such as Sigcomm, NSDI, Mobicom, Mobisys, IMC, CoNEXT, INFOCOM, MM, MMSys, OSDI, SOSP etc. -->
+![](https://img.shields.io/github/last-commit/MoweiWang/machine-learning-for-networking-paper-list?color=green) ![](https://img.shields.io/badge/PaperNumber-5-brightgreen)
 
-<!-- | 左对齐 | 居中  | 右对齐 |
-| :------------:|:---------------:|:-----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 | -->
+Must-read papers on data-driven networking research that primarily apply machine learning techniques to the computer networking domain. The papers are mostly selected from major venues such as Sigcomm, NSDI, Mobicom, IMC, CoNEXT,INFOCOM, Hotnets, OSDI, SOSP, etc. Preprint papers with interesting topics or insights are also included here. Watch this repository for the latest updates!
+
+## introduction
+
+<!-- This is a paper list about data-driven networks. Different from traditional fine-tuning that uses an explicit classifier, prompt-based tuning directly uses the pre-trained models to conduct the pre-training tasks for classification or regression. -->
+
+We use the following badges to highlight features of the paper.
+
+
+![](https://img.shields.io/badge/pensieve-blue) The abbreviation of the work.
+
+<!-- ![](https://img.shields.io/badge/Continous_Template-red) The key features in terms of prompt learning used in the work.
+
+![](https://img.shields.io/badge/Generation-brown) The main explored task of the work.
+
+![](https://img.shields.io/badge/Analysis-green) The main explored property of prompt learning methods in the work. -->
+
 
 - [machine-learning-for-networking-paper-list](#machine-learning-for-networking-paper-list)
-- [Papers](#papers)
+  - [introduction](#introduction)
   - [Survey and overview](#survey-and-overview)
   - [Application](#application)
     - [Adaptive bitrate (ABR) algorithm in video streaming](#adaptive-bitrate-abr-algorithm-in-video-streaming)
@@ -34,7 +45,6 @@ A list of recent papers applying machine learning, especially ***deep learning**
     - [Platform](#platform)
     - [Experience](#experience)
 
-# Papers
 
 ## Survey and overview
 1. [Machine learning for networking: Workflow, advances and opportunities.](https://ieeexplore.ieee.org/abstract/document/8121867 "machine learning for networking") (IEEE Network 2017)
@@ -55,7 +65,7 @@ A list of recent papers applying machine learning, especially ***deep learning**
 4. indigo
 5. ICML
 6. NIPS
-7. 
+7.
 
 <!-- Puffer  -->
 
@@ -69,7 +79,7 @@ A list of recent papers applying machine learning, especially ***deep learning**
 1. Via
 2. pytheas
 3. CFA
-4. 
+4.
 
 ### Job scheduling
 1. Decima
@@ -87,7 +97,7 @@ A list of recent papers applying machine learning, especially ***deep learning**
 
 ### Topology adaptation in data center networks
 1. xWeaver
-   
+
 
 ### Network modeling
 1. unveiling
